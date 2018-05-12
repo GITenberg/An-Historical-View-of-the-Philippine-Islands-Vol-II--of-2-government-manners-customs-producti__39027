@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '39789'
     url: http://www.gutenberg.org/2009/agents/39789
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39027#An-Historical-View-of-the-Philippine-Islands-Vol-II--of-2-government-manners-customs-producti_
 gutenberg_issued: '2012-03-01'
 gutenberg_type: Text
 identifiers:
